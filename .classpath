@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sitewhere"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/3.2.10.RELEASE/spring-web-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/3.2.10.RELEASE/spring-core-3.2.10.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
